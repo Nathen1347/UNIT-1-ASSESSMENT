@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.Header{
+    background-color: pink;
+    border: 1px solid black;
+    width: 100%;
+}
+.Menu{
+    list-style: none;
+    text-align: left;
+}
+.Box{
+    width: 99%;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px auto;
+    box-sizing: border-box;
+    border: dotted;
+}
+.Text1{
+    text-decoration: solid;
+    font-size: x-large;
+}
+.Text2{
+    text-align: right;
+}
+.Text3{
+    text-align: left;
+}
+.image1{
+    float: left;
+}
+.image2{
+    float: right;
+}
